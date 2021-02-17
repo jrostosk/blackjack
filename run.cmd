@@ -1,7 +1,5 @@
 @echo off
 
-clear
-
 rem   In this example, any third-party library JARs are located in 'lib' and added to the classpath [-classpath option].
 rem   Remove this -classpath "lib\*" if you're not using any.
 
