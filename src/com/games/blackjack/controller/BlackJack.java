@@ -1,8 +1,8 @@
-package com.games.blackjack.core.controller;
+package com.games.blackjack.controller;
 
 import com.apps.util.Prompter;
-import com.games.blackjack.core.Dealer;
-import com.games.blackjack.core.Player;
+import com.games.blackjack.domain.Dealer;
+import com.games.blackjack.domain.Player;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;

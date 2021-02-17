@@ -1,4 +1,4 @@
-package com.games.blackjack.core;
+package com.games.blackjack.domain;
 
 enum Card {
     ACE_SPADES,

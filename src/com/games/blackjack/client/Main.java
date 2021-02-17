@@ -1,7 +1,7 @@
-package com.games.blackjack.core.client;
+package com.games.blackjack.client;
 
 import com.apps.util.Prompter;
-import com.games.blackjack.core.controller.BlackJack;
+import com.games.blackjack.controller.BlackJack;
 import java.io.IOException;
 import java.util.Scanner;
 
